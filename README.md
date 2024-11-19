@@ -7,7 +7,7 @@
 </div>
 
 <script>
-    const API_KEY = "YOUR_API_KEY"; // Replace with your OpenAI API key
+    const API_KEY = "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 API openai"; // Replace with your OpenAI API key
     const API_URL = "https://api.openai.com/v1/chat/completions";
 
     document.getElementById('sendButton').addEventListener('click', async () => {
